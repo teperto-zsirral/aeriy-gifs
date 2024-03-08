@@ -51,7 +51,7 @@ const filterGifs = (gifs, searches) => {
     let filtered = gifs;
 
     for (const search of searches) {
-        filtered = filtered.filter((gif) => gif.tags.some((tag) => new RegExp(search).test(tag)));
+        filtered = filtered.filter((gif) => gif.tags.some((tag) => new RegExp(search, 'i').test(tag)));
     }
     
     return filtered;
