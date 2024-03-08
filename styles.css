@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 0px;
+    background-image: url('./bg.svg');
+    background-repeat: repeat;
+    min-height: 100vh;
+}
+
+#root {
+    max-width: 1440px;
+    margin: 0px auto;
+}
+
+#searchbar-box {
+    padding: 20px 20px 5px;
+}
+
+#searchbar {
+    width: 100%;
+    padding: 0.5em 1em;
+    font-size: large;
+    border-radius: 99em;
+    border: none;
+}
+#searchbar:focus {
+    outline: 2px solid lightpink;
+}
+
+#gifbox {
+    display: grid;
+    grid-auto-flow: row dense;
+    grid-template-columns: repeat(auto-fit, 200px);
+}
+
+@media only screen and (max-width: 600px) {
+    #gifbox {
+        grid-template-columns: repeat(auto-fit, 50%);
+    }
+  }
+
+img {
+    place-self: center center;
+}

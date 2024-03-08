@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <!-- Light Gray Square -->
+  <rect x="0" y="0" width="10" height="10" fill="#b0b0b0"/>
+  <!-- Dark Gray Square -->
+  <rect x="10" y="0" width="10" height="10" fill="#888888"/>
+  <!-- Dark Gray Square -->
+  <rect x="0" y="10" width="10" height="10" fill="#888888"/>
+  <!-- Light Gray Square -->
+  <rect x="10" y="10" width="10" height="10" fill="#b0b0b0"/>
+</svg>
