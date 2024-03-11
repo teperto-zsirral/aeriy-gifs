@@ -68,8 +68,14 @@ const renderGifs = (gifs) => {
         // <div class="imgbox" style="width: ${width}px; height: ${height}px;">
         // </div>
         return acc + `
-        <img loading="lazy" width="${width}px" height="${height}px" style="grid-row: span ${Math.max(1, Math.round(ratio))}; grid-column: span ${colSpan};" src="./gifs_media/${cur.file}.gif" alt="Tags: ${cur.tags.join(', ')}" id="${cur.file}" title="Tags: ${cur.tags.join(', ')}" >
+        <img loading="lazy" width="${width}px" height="${height}px" style="grid-row: span ${Math.max(1, Math.round(ratio))}; grid-column: span ${colSpan};" src="./gifs_media/${cur.file}.gif" alt="Tags: ${cur.tags.join(', ')}" id="${cur.file}" title="Tags: ${cur.tags.join(', ')}" onclick="copyGifUrl(this)" >
         
         `;
     }, '');
+}
+
+
+function copyGifUrl(img) {
+    const address = `https://teperto-zsirral.github.io/aeriy-gifs/gifs_media/${img.id}.gif`
+    navigator.clipboard.writeText(address)
 }
