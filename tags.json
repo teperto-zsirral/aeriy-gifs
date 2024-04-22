@@ -4765,6 +4765,17 @@
     "height": 282
   },
   {
+    "file": "CyberCrushed",
+    "tags": [
+      "cyber",
+      "crushed",
+      "angry",
+      "scary"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
     "file": "d04f4581-544f-4356-a6b6-b9d8029e5872",
     "tags": [
       "woo",
@@ -5291,16 +5302,7 @@
     "tags": [
       "excercise",
       "harper",
-      "squat"
-    ],
-    "width": 200,
-    "height": 200
-  },
-  {
-    "file": "e43426ba-6fef-4c9f-bf51-56b7ba779d7a",
-    "tags": [
       "squat",
-      "harper",
       "loop"
     ],
     "width": 200,
@@ -5882,6 +5884,18 @@
     "height": 500
   },
   {
+    "file": "HaileySmile",
+    "tags": [
+      "hailey",
+      "smile",
+      "cute",
+      "nuzzle",
+      "headtilt"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
     "file": "Hailey_Sniff_2",
     "tags": [
       "hailey",
@@ -5890,6 +5904,50 @@
       "smell"
     ],
     "width": 190,
+    "height": 200
+  },
+  {
+    "file": "HarperFlapReversed",
+    "tags": [
+      "harper",
+      "loop",
+      "flap",
+      "flying",
+      "reversed"
+    ],
+    "width": 282,
+    "height": 200
+  },
+  {
+    "file": "HarperSalute",
+    "tags": [
+      "harper",
+      "salute",
+      "knee",
+      "one leg"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "HarperWave",
+    "tags": [
+      "harper",
+      "wave",
+      "bend forward",
+      "hop"
+    ],
+    "width": 248,
+    "height": 200
+  },
+  {
+    "file": "Hat-kun_Shake",
+    "tags": [
+      "harper",
+      "hat-kun",
+      "shake"
+    ],
+    "width": 244,
     "height": 200
   },
   {
@@ -5941,6 +5999,28 @@
     "height": 200
   },
   {
+    "file": "kylieCaughtEmote200",
+    "tags": [
+      "kylie",
+      "caught",
+      "emote",
+      "smile",
+      "redeemed"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "Kylie_Lick",
+    "tags": [
+      "kylie",
+      "lick",
+      "loop"
+    ],
+    "width": 250,
+    "height": 200
+  },
+  {
     "file": "paddycake",
     "tags": [
       "kylie",
@@ -5951,6 +6031,41 @@
     ],
     "width": 200,
     "height": 200
+  },
+  {
+    "file": "Pink_Pet_Lick",
+    "tags": [
+      "camera",
+      "pink",
+      "pat",
+      "lick",
+      "astral",
+      "pov"
+    ],
+    "width": 468,
+    "height": 267
+  },
+  {
+    "file": "Pink_Shoulder",
+    "tags": [
+      "pink",
+      "astral",
+      "turn",
+      "look back"
+    ],
+    "width": 150,
+    "height": 300
+  },
+  {
+    "file": "Pink_Sorry",
+    "tags": [
+      "pink",
+      "astral",
+      "sorry",
+      "asl"
+    ],
+    "width": 250,
+    "height": 250
   },
   {
     "file": "Pupcat_Wakeup",
@@ -5980,6 +6095,18 @@
     ],
     "width": 208,
     "height": 208
+  },
+  {
+    "file": "PupSteel",
+    "tags": [
+      "pupcat",
+      "blue steel",
+      "white",
+      "vtuber",
+      "zoolander"
+    ],
+    "width": 288,
+    "height": 200
   },
   {
     "file": "Pup_Buffering",
