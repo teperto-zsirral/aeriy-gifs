@@ -4042,6 +4042,16 @@
     "height": 200
   },
   {
+    "file": "aeriyPpHop",
+    "tags": [
+      "aeriyPpHop",
+      "emote",
+      "blobcat"
+    ],
+    "width": 112,
+    "height": 112
+  },
+  {
     "file": "af6451bc-fee6-4fb9-bd1d-48b2c08fefa1",
     "tags": [
       "thumbsup",
@@ -4765,6 +4775,63 @@
     "height": 282
   },
   {
+    "file": "ClaireLeave",
+    "tags": [
+      "claire",
+      "wave",
+      "leave",
+      "shy"
+    ],
+    "width": 282,
+    "height": 200
+  },
+  {
+    "file": "cupi-key_1",
+    "tags": [
+      "cupi",
+      "key",
+      "green",
+      "nyam"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "CupiGuh",
+    "tags": [
+      "cupi",
+      "wendy",
+      "guh",
+      "panting",
+      "long hair"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "CupiGuh2",
+    "tags": [
+      "cupi",
+      "wendy",
+      "guh",
+      "panting",
+      "long hair"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "CupiWave",
+    "tags": [
+      "cupi",
+      "wendy",
+      "wave",
+      "hi"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
     "file": "CyberCrushed",
     "tags": [
       "cyber",
@@ -5006,6 +5073,17 @@
     ],
     "width": 400,
     "height": 226
+  },
+  {
+    "file": "dance_4",
+    "tags": [
+      "muppet",
+      "dance",
+      "loop",
+      "jam"
+    ],
+    "width": 200,
+    "height": 200
   },
   {
     "file": "db004d76-684f-4f90-a710-abd2203ea3a0",
@@ -5919,6 +5997,17 @@
     "height": 200
   },
   {
+    "file": "HarperFlapReversed2x",
+    "tags": [
+      "herper",
+      "fast",
+      "flapping",
+      "loop"
+    ],
+    "width": 282,
+    "height": 200
+  },
+  {
     "file": "HarperSalute",
     "tags": [
       "harper",
@@ -5941,6 +6030,48 @@
     "height": 200
   },
   {
+    "file": "HarperWooW",
+    "tags": [
+      "harper",
+      "woow",
+      "wow"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "Harper_ChipiChapaP_S",
+    "tags": [
+      "harper",
+      "loop",
+      "chipi chapa"
+    ],
+    "width": 300,
+    "height": 300
+  },
+  {
+    "file": "Harper_Jumpscare",
+    "tags": [
+      "harper",
+      "scared",
+      "jumpscare"
+    ],
+    "width": 306,
+    "height": 294
+  },
+  {
+    "file": "Harper_Zoom",
+    "tags": [
+      "harper",
+      "zoomies",
+      "kylie",
+      "run",
+      "running"
+    ],
+    "width": 260,
+    "height": 240
+  },
+  {
     "file": "Hat-kun_Shake",
     "tags": [
       "harper",
@@ -5949,6 +6080,17 @@
     ],
     "width": 244,
     "height": 200
+  },
+  {
+    "file": "Hatkun_Excite150",
+    "tags": [
+      "hat-kun",
+      "hatkun",
+      "excited",
+      "loop"
+    ],
+    "width": 150,
+    "height": 150
   },
   {
     "file": "highfive-miss",
@@ -5999,6 +6141,46 @@
     "height": 200
   },
   {
+    "file": "Kiwi_Chipper",
+    "tags": [
+      "kiwi",
+      "chipper",
+      "betrayal",
+      "evil"
+    ],
+    "width": 480,
+    "height": 270
+  },
+  {
+    "file": "Kiwi_Sweat",
+    "tags": [
+      "kiwi",
+      "sweat"
+    ],
+    "width": 250,
+    "height": 250
+  },
+  {
+    "file": "Kiwi_This_Big",
+    "tags": [
+      "kiwi",
+      "this big",
+      "arms"
+    ],
+    "width": 290,
+    "height": 290
+  },
+  {
+    "file": "Kiwi_Wow",
+    "tags": [
+      "kiwi",
+      "wow",
+      "wooooooow"
+    ],
+    "width": 250,
+    "height": 250
+  },
+  {
     "file": "kylieCaughtEmote200",
     "tags": [
       "kylie",
@@ -6011,6 +6193,35 @@
     "height": 200
   },
   {
+    "file": "KylieHeadset",
+    "tags": [
+      "kylie",
+      "headset"
+    ],
+    "width": 254,
+    "height": 200
+  },
+  {
+    "file": "KyliePassOut",
+    "tags": [
+      "kylie",
+      "sleepy",
+      "pass out"
+    ],
+    "width": 310,
+    "height": 200
+  },
+  {
+    "file": "Kylie_Chatsocute",
+    "tags": [
+      "kylie",
+      "chat so cute",
+      "chatsocute"
+    ],
+    "width": 400,
+    "height": 226
+  },
+  {
     "file": "Kylie_Lick",
     "tags": [
       "kylie",
@@ -6019,6 +6230,171 @@
     ],
     "width": 250,
     "height": 200
+  },
+  {
+    "file": "Kylie_Mineemote",
+    "tags": [
+      "kylie",
+      "mine",
+      "emote"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "Kylie_Workfast4x",
+    "tags": [
+      "kylie",
+      "works fast",
+      "mine"
+    ],
+    "width": 916,
+    "height": 294
+  },
+  {
+    "file": "Muppetaeriy_Blush",
+    "tags": [
+      "muppet",
+      "blush"
+    ],
+    "width": 356,
+    "height": 200
+  },
+  {
+    "file": "Muppetaeriy_Hi_GrabsYou",
+    "tags": [
+      "muppet",
+      "hi",
+      "grab"
+    ],
+    "width": 304,
+    "height": 200
+  },
+  {
+    "file": "Muppetaeriy_Liiife",
+    "tags": [
+      "muppet",
+      "sing",
+      "life",
+      "liiife"
+    ],
+    "width": 356,
+    "height": 200
+  },
+  {
+    "file": "Muppetaeriy_Nails",
+    "tags": [
+      "muppet",
+      "nails",
+      "lick"
+    ],
+    "width": 356,
+    "height": 200
+  },
+  {
+    "file": "Muppetaeriy_Omw",
+    "tags": [
+      "muppet",
+      "omw",
+      "jump",
+      "pull"
+    ],
+    "width": 278,
+    "height": 200
+  },
+  {
+    "file": "Muppetaeriy_Shot",
+    "tags": [
+      "muppet",
+      "shot",
+      "shoot",
+      "you are dead"
+    ],
+    "width": 356,
+    "height": 200
+  },
+  {
+    "file": "Muppetaeriy_Sway",
+    "tags": [
+      "muppet",
+      "sway",
+      "turn back",
+      "look back"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "Muppetaeriy_Together",
+    "tags": [
+      "muppet",
+      "come",
+      "together",
+      "invite"
+    ],
+    "width": 286,
+    "height": 200
+  },
+  {
+    "file": "Muppetaeriy_Turnandpoint",
+    "tags": [
+      "muppet",
+      "turn and point"
+    ],
+    "width": 228,
+    "height": 200
+  },
+  {
+    "file": "Muppetaeriy_Wave_Tired",
+    "tags": [
+      "muppet",
+      "wave",
+      "tired",
+      "jumpy",
+      "collapse"
+    ],
+    "width": 304,
+    "height": 200
+  },
+  {
+    "file": "Muppetaeriy_Whyyy",
+    "tags": [
+      "muppet",
+      "why",
+      "whyyy"
+    ],
+    "width": 356,
+    "height": 200
+  },
+  {
+    "file": "Muppetaeriy_Wide",
+    "tags": [
+      "muppet",
+      "wide"
+    ],
+    "width": 231,
+    "height": 200
+  },
+  {
+    "file": "Muppetaeriy_Yousit",
+    "tags": [
+      "muppet",
+      "you sit"
+    ],
+    "width": 355,
+    "height": 200
+  },
+  {
+    "file": "MuppetFire",
+    "tags": [
+      "muppet",
+      "fire",
+      "power",
+      "aeriypower",
+      "let it burn"
+    ],
+    "width": 320,
+    "height": 184
   },
   {
     "file": "paddycake",
@@ -6030,6 +6406,19 @@
       "hands"
     ],
     "width": 200,
+    "height": 200
+  },
+  {
+    "file": "PinkPillow",
+    "tags": [
+      "pink",
+      "red",
+      "pillow",
+      "thigh",
+      "pat",
+      "dollworld"
+    ],
+    "width": 342,
     "height": 200
   },
   {
@@ -6068,6 +6457,84 @@
     "height": 250
   },
   {
+    "file": "ProfessorWave",
+    "tags": [
+      "prof",
+      "wave",
+      "jump",
+      "surprise",
+      "bounce"
+    ],
+    "width": 314,
+    "height": 200
+  },
+  {
+    "file": "ProfJump",
+    "tags": [
+      "prof",
+      "peekaboo",
+      "jump"
+    ],
+    "width": 232,
+    "height": 200
+  },
+  {
+    "file": "Pupcat_BlinkforHelp",
+    "tags": [
+      "pup",
+      "pupcat",
+      "white",
+      "blink for help"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "Pupcat_Hide",
+    "tags": [
+      "pup",
+      "pupcat",
+      "white",
+      "hide"
+    ],
+    "width": 168,
+    "height": 168
+  },
+  {
+    "file": "Pupcat_Hide_Emote",
+    "tags": [
+      "pup",
+      "pupcat",
+      "white",
+      "hide",
+      "emote"
+    ],
+    "width": 128,
+    "height": 128
+  },
+  {
+    "file": "Pupcat_Moves",
+    "tags": [
+      "pupcat",
+      "white",
+      "dance",
+      "moves"
+    ],
+    "width": 250,
+    "height": 250
+  },
+  {
+    "file": "Pupcat_Pace",
+    "tags": [
+      "pupcat",
+      "pace",
+      "pacing",
+      "white"
+    ],
+    "width": 273,
+    "height": 200
+  },
+  {
     "file": "Pupcat_Wakeup",
     "tags": [
       "pupcat",
@@ -6081,6 +6548,30 @@
     ],
     "width": 400,
     "height": 200
+  },
+  {
+    "file": "PupFlashBangZoom",
+    "tags": [
+      "pupcat",
+      "white",
+      "vtuber",
+      "flashbang",
+      "my eyes!",
+      "blind"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "PupJam",
+    "tags": [
+      "pupcat",
+      "jam",
+      "headbang",
+      "emote"
+    ],
+    "width": 90,
+    "height": 90
   },
   {
     "file": "pupmonchuberfast",
@@ -6123,6 +6614,234 @@
     "height": 268
   },
   {
+    "file": "riley-arm-cut",
+    "tags": [
+      "riley",
+      "annoyed",
+      "arm",
+      "cut",
+      "knife",
+      "self harm"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "riley-fall",
+    "tags": [
+      "riley",
+      "fall",
+      "splat"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "riley-knife-lick_1",
+    "tags": [
+      "riley",
+      "threat",
+      "knife",
+      "murderous",
+      "throat",
+      "lick"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "riley-knife_1",
+    "tags": [
+      "riley",
+      "threat",
+      "knife",
+      "murderous",
+      "throat"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "riley-L",
+    "tags": [
+      "riley",
+      "loser",
+      "L",
+      "mocking"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "riley-lick_1",
+    "tags": [
+      "riley",
+      "hot",
+      "knife edge lick"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "riley-think",
+    "tags": [
+      "riley",
+      "thinking",
+      "finger"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "riley-turn",
+    "tags": [
+      "riley",
+      "intro",
+      "arrive",
+      "turn",
+      "dance",
+      "point"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "rileyCheck",
+    "tags": [
+      "riley",
+      "husband check",
+      "blindfolded"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "Riley_Arrive",
+    "tags": [
+      "riley",
+      "arrive",
+      "feet",
+      "heels",
+      "step"
+    ],
+    "width": 250,
+    "height": 250
+  },
+  {
+    "file": "Riley_Bounce_Happy",
+    "tags": [
+      "riley",
+      "bounce",
+      "happy"
+    ],
+    "width": 202,
+    "height": 308
+  },
+  {
+    "file": "Riley_Driver",
+    "tags": [
+      "riley",
+      "driver",
+      "loop"
+    ],
+    "width": 250,
+    "height": 250
+  },
+  {
+    "file": "Riley_Hairdown",
+    "tags": [
+      "riley",
+      "hair down"
+    ],
+    "width": 250,
+    "height": 250
+  },
+  {
+    "file": "Riley_Heartty",
+    "tags": [
+      "riley",
+      "ty",
+      "thank you",
+      "heart"
+    ],
+    "width": 250,
+    "height": 250
+  },
+  {
+    "file": "Riley_Mhm_Wiggle",
+    "tags": [
+      "riley",
+      "mhm",
+      "wiggle",
+      "yes"
+    ],
+    "width": 190,
+    "height": 330
+  },
+  {
+    "file": "Riley_Nuhuh",
+    "tags": [
+      "riley",
+      "nuhuh",
+      "no",
+      "head shake"
+    ],
+    "width": 250,
+    "height": 250
+  },
+  {
+    "file": "Riley_Sad",
+    "tags": [
+      "riley",
+      "sad"
+    ],
+    "width": 214,
+    "height": 292
+  },
+  {
+    "file": "Riley_Spittake",
+    "tags": [
+      "riley",
+      "drink",
+      "spit",
+      "choke"
+    ],
+    "width": 250,
+    "height": 250
+  },
+  {
+    "file": "Riley_Upclose",
+    "tags": [
+      "riley",
+      "up close",
+      "pouty"
+    ],
+    "width": 334,
+    "height": 188
+  },
+  {
+    "file": "Riley_Wavehi",
+    "tags": [
+      "riley",
+      "wave",
+      "hi"
+    ],
+    "width": 250,
+    "height": 250
+  },
+  {
+    "file": "Riley_Wha",
+    "tags": [
+      "riley",
+      "confused",
+      "what",
+      "look around",
+      "where"
+    ],
+    "width": 250,
+    "height": 250
+  },
+  {
     "file": "slap",
     "tags": [
       "kylie",
@@ -6133,6 +6852,55 @@
       "fall"
     ],
     "width": 200,
+    "height": 200
+  },
+  {
+    "file": "SPOILER_Kiwi_Pant",
+    "tags": [
+      "kiwi",
+      "panting"
+    ],
+    "width": 250,
+    "height": 350
+  },
+  {
+    "file": "TeddyExplain",
+    "tags": [
+      "teddy",
+      "explain",
+      "ranting",
+      "cute"
+    ],
+    "width": 300,
+    "height": 300
+  },
+  {
+    "file": "VampireAdjust",
+    "tags": [
+      "vampire",
+      "adjust",
+      "thigh"
+    ],
+    "width": 200,
+    "height": 200
+  },
+  {
+    "file": "VampireHeadTilt",
+    "tags": [
+      "vampire",
+      "headtilt"
+    ],
+    "width": 290,
+    "height": 200
+  },
+  {
+    "file": "VampireUmbrella",
+    "tags": [
+      "vampire",
+      "umbrella",
+      "spin"
+    ],
+    "width": 356,
     "height": 200
   },
   {
@@ -6147,5 +6915,15 @@
     ],
     "width": 600,
     "height": 318
+  },
+  {
+    "file": "who_dis6",
+    "tags": [
+      "who is this",
+      "pupcat",
+      "mask"
+    ],
+    "width": 853,
+    "height": 240
   }
 ]
