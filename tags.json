@@ -6479,6 +6479,17 @@
     "height": 200
   },
   {
+    "file": "Pupcat_Begging",
+    "tags": [
+      "pupcat",
+      "white",
+      "begging",
+      "white"
+    ],
+    "width": 270,
+    "height": 270
+  },
+  {
     "file": "Pupcat_BlinkforHelp",
     "tags": [
       "pup",
@@ -6488,6 +6499,48 @@
     ],
     "width": 200,
     "height": 200
+  },
+  {
+    "file": "Pupcat_Blink_Close",
+    "tags": [
+      "pupcat",
+      "blink",
+      "close",
+      "white"
+    ],
+    "width": 270,
+    "height": 270
+  },
+  {
+    "file": "Pupcat_Circle",
+    "tags": [
+      "pupcat",
+      "circle",
+      "white"
+    ],
+    "width": 250,
+    "height": 250
+  },
+  {
+    "file": "Pupcat_Existential_Crisis",
+    "tags": [
+      "pupcat",
+      "existential crisis",
+      "white"
+    ],
+    "width": 480,
+    "height": 270
+  },
+  {
+    "file": "Pupcat_Getting_Dressed",
+    "tags": [
+      "pupcat",
+      "getting",
+      "dressed",
+      "white"
+    ],
+    "width": 270,
+    "height": 270
   },
   {
     "file": "Pupcat_Hide",
@@ -6513,6 +6566,20 @@
     "height": 128
   },
   {
+    "file": "Pupcat_Leash",
+    "tags": [
+      "pupcat",
+      "leash",
+      "clone",
+      "white",
+      "nuzzle",
+      "headpat",
+      "patplay"
+    ],
+    "width": 250,
+    "height": 250
+  },
+  {
     "file": "Pupcat_Moves",
     "tags": [
       "pupcat",
@@ -6533,6 +6600,60 @@
     ],
     "width": 273,
     "height": 200
+  },
+  {
+    "file": "Pupcat_Payback",
+    "tags": [
+      "pupcat",
+      "payback",
+      "white"
+    ],
+    "width": 270,
+    "height": 270
+  },
+  {
+    "file": "Pupcat_Point_What",
+    "tags": [
+      "pupcat",
+      "point",
+      "white"
+    ],
+    "width": 405,
+    "height": 270
+  },
+  {
+    "file": "Pupcat_Point_What_180",
+    "tags": [
+      "pupcat",
+      "white",
+      "upsidedown",
+      "point"
+    ],
+    "width": 405,
+    "height": 270
+  },
+  {
+    "file": "Pupcat_So_Tired",
+    "tags": [
+      "pupcat",
+      "lay down",
+      "so tired",
+      "white"
+    ],
+    "width": 405,
+    "height": 270
+  },
+  {
+    "file": "Pupcat_Summon",
+    "tags": [
+      "pupcat",
+      "summon",
+      "clone",
+      "magic",
+      "white"
+    ],
+    "width": 250,
+    "height": 250
   },
   {
     "file": "Pupcat_Wakeup",

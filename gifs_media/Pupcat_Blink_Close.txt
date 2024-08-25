@@ -1,0 +1,1 @@
+pupcat, blink, close, white
